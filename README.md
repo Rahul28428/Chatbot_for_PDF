@@ -88,10 +88,5 @@ Chatbot_for_PDF is a conversational AI chatbot designed to answer questions abou
 ## Demo
 <a href="https://www.loom.com/share/4611d07dda3446dc930d0af2cd3c13bd?sid=7a06e957-f52f-47aa-afc7-a73bb567f01d"> Link </a>
 
-## Contact
-For any queries or issues, please reach out to us at:
-- Email: info@computermarkethub.com
-- WhatsApp: +91 9364004402
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
